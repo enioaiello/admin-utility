@@ -16,5 +16,13 @@ Mettez ensuite **Admin Utility** dans les **views**. À ce moment là, deux choi
 - Mettre un lien dans l'accueil ou les applications pour accéder à **Admin Utility**
 ## Utiliser Admin Utility sur Admin Services en ligne
 Lancez la version [en ligne](https://enioaiello.github.io/admin-services), connectez-vous et accédez à vos applications. Profitez !
+## Versions patch inclues
+- Version 4.0.4
+- Version 6.1.2
+- Version dp 2 6.0.0
+- Version 4.2.0
+- Version 5.0.0
+- Version 3.0.3
+- Version 6.0.0
 ## Statistiques
 ![licence](https://img.shields.io/github/license/enioaiello/admin-utility.svg) ![releases](https://img.shields.io/github/release/enioaiello/admin-utility.svg)
